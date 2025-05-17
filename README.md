@@ -1,4 +1,4 @@
-# BipedalWalker Reinforcement Learning
+# Bipedal Walker Reinforcement Learning
 
 This repository contains an implementation of the Proximal Policy Optimization (PPO) algorithm for training a reinforcement learning model in the `BipedalWalker-v3` environment using PyTorch.
 
